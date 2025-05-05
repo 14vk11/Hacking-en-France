@@ -1,4 +1,4 @@
-# Présentation GitHub : "Hacking en France - 25 ans d’évolution"
+# Hacking en France - 25 ans d’évolution
 
 ## 📌 Aperçu du projet
 Ce dépôt GitHub accompagne l'e-book **"Hacking en France : 25 ans d’évolution, de l’ombre à la lumière numérique"** écrit par Patrick Chêne. Il retrace l'histoire du hacking en France depuis les années 2000 jusqu'à 2025, en analysant les évolutions techniques, juridiques et sociétales.
